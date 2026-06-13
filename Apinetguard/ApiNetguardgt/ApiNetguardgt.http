@@ -1,0 +1,6 @@
+@ApiNetguardgt_HostAddress = http://localhost:5133
+
+GET {{ApiNetguardgt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
